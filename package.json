@@ -39,7 +39,7 @@
     "query-string": "^6.13.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "recharts": "^1.8.5",
+    "recharts": "^2.1.14",
     "rss": "^1.2.2",
     "shell-quote": "^1.6.1",
     "uglifyify": "^5.0.2",
